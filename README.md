@@ -1,4 +1,4 @@
-# LIVE DEMO :-  <a href="https://debugathuenti.ccbp.tech">Nxt Trendz Protected Route</a>
+# LIVE DEMO :-  <a href="https://debugathuenti.ccbp.tech">Debugging Nxt Trendz Authentication 2</a>
 ### Login Details
 Username: rahul </br>
 Password: rahul@2021
